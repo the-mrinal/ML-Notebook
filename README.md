@@ -3,7 +3,6 @@
 
 
 
-##### Here I will be pushing all the imlementation projects and algorithms that i will learn while going through ML 
 
 ``` git clone https://github.com/getmrinal/ML-Notebook.git ```
 
