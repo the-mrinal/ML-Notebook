@@ -26,3 +26,7 @@
 	* Text Classification
 	
 >More Algorithms and projects will be updating soon!
+
+
+``` MIT License ```
+```Copyright (c) 2018 Mrinal Chandra``` [@Mrinal](linkedin.com/in/mrinal626/)
