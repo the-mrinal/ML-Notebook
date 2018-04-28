@@ -29,4 +29,4 @@
 
 
 ``` MIT License ```
-```Copyright (c) 2018 Mrinal Chandra``` [@Mrinal](linkedin.com/in/mrinal626/)
+```Copyright (c) 2018 Mrinal Chandra``` [@Mrinal](http://linkedin.com/in/mrinal626/)
