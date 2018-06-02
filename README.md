@@ -21,8 +21,10 @@
 		* ```Random Forest ```
 		* ```Naive Bayes```
 		* ```K-nearest-neighbours(KNN)```
+		* ```Support Vector Machine(SVM | SVR)```
+		* ```Principle Component Analysis(PCA)```
 * Projects
-	* Text Classification
+	* Text Classification using Multinomial Naive Bayes
 	
 >More Algorithms and projects will be updating soon!
 
