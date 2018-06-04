@@ -14,6 +14,7 @@
  	*  ```Linear Regression ```
 	* ```Multivariable Regression```
 	* ```Gradient Descent```
+	* ```Support Vector Regressor(SVR)```
  * Classifiers
 	* Measures ```Confusion Metrics``` ```score``` ```Classification Report```
 	* Algorithms
@@ -21,7 +22,7 @@
 		* ```Random Forest ```
 		* ```Naive Bayes```
 		* ```K-nearest-neighbours(KNN)```
-		* ```Support Vector Machine(SVM | SVR)```
+		* ```Support Vector Machine(SVM)```
 		* ```Principle Component Analysis(PCA)```
 * Projects
 	* Text Classification using Multinomial Naive Bayes
