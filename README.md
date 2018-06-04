@@ -26,6 +26,7 @@
 		* ```Principle Component Analysis(PCA)```
 * Projects
 	* Text Classification using Multinomial Naive Bayes
+	* Car Price Prediction based on Used Car Dataset
 	
 >More Algorithms and projects will be updating soon!
 
