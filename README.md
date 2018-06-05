@@ -14,6 +14,7 @@
  	*  ```Linear Regression ```
 	* ```Multivariable Regression```
 	* ```Gradient Descent```
+	* ```Support Vector Regressor(SVR)```
  * Classifiers
 	* Measures ```Confusion Metrics``` ```score``` ```Classification Report```
 	* Algorithms
@@ -21,8 +22,11 @@
 		* ```Random Forest ```
 		* ```Naive Bayes```
 		* ```K-nearest-neighbours(KNN)```
+		* ```Support Vector Machine(SVM)```
+		* ```Principle Component Analysis(PCA)```
 * Projects
-	* Text Classification
+	* Text Classification using Multinomial Naive Bayes
+	* Car Price Prediction based on Used Car Dataset
 	
 >More Algorithms and projects will be updating soon!
 
