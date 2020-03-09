@@ -1,5 +1,5 @@
 # ML-Notebook
-#### **_Karma of Human is AI_**
+#### **_Karma of Humans is A.I._**
 
 
 
